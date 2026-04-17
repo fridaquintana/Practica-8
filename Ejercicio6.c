@@ -11,7 +11,7 @@ int main ()
   printf("El valor ingresado para cada elemento del arreglo es:\n[");
   for (cont=0; cont<MAX; cont++)
   {
-      printf("%d\t", arreglo[cont]);
+      printf("%fl\t", arreglo[cont]);
   }
   printf("]\n");
   return 0;
